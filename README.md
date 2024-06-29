@@ -8,7 +8,7 @@ Mentor: Mujbain Mohammad
 Overview of the Project
 
 Project: To-Do List using HTML, CSS and JavaScript
-![Uploading Screenshot 2024-06-28 221505.png…]()
+Project Link : file:///C:/Users/DELL/Desktop/to-do%20list/index.html
 
 Project Description: A simple web-based Todo List App that allows users to create, read, update, and delete (CRUD) todo list items.
 
