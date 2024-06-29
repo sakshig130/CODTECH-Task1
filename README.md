@@ -10,8 +10,6 @@ Overview of the Project
 Project: To-Do List using HTML, CSS and JavaScript
 ![octocat](![todo ss image](https://github.com/sakshig130/CODTECH-Task1/assets/173877596/ddf72157-07f1-4228-b948-f8a0a07ed7ec)
 )
-![Uploading Screenshot 2024-06-28 221505.png…]()
-
 
 Project Description: A simple web-based Todo List App that allows users to create, read, update, and delete (CRUD) todo list items.
 
